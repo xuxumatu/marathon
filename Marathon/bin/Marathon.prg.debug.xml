@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonBackground.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonBackground.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonBackground.mc" id="3" lineNum="12" pc="268435481" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonBackground.mc" id="4" lineNum="15" pc="268435502" symbol="draw"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonBackground.mc" id="4" lineNum="17" pc="268435506" symbol="draw"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonBackground.mc" id="4" lineNum="18" pc="268435559" symbol="draw"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="6" lineNum="16" pc="268435572" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="6" lineNum="17" pc="268435576" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="6" lineNum="18" pc="268435594" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="7" lineNum="22" pc="268435637" symbol="onLayout"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="7" lineNum="23" pc="268435641" symbol="onLayout"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="8" lineNum="29" pc="268435679" symbol="onShow"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="33" pc="268435684" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="35" pc="268435688" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="36" pc="268435695" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="37" pc="268435712" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="38" pc="268435722" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="39" pc="268435747" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="40" pc="268435758" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="43" pc="268435774" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="44" pc="268435806" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="45" pc="268435813" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="48" pc="268435834" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="51" pc="268435899" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="52" pc="268435923" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="53" pc="268435964" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="55" pc="268435978" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="56" pc="268435990" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="57" pc="268436002" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="58" pc="268436014" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="59" pc="268436026" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="61" pc="268436038" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="64" pc="268436050" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="67" pc="268436070" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="68" pc="268436106" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="70" pc="268436123" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="71" pc="268436155" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="73" pc="268436187" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="74" pc="268436219" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="75" pc="268436251" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="76" pc="268436283" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="9" lineNum="77" pc="268436315" symbol="onUpdate"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="10" lineNum="83" pc="268436336" symbol="onHide"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="11" lineNum="87" pc="268436341" symbol="onExitSleep"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonView.mc" id="12" lineNum="91" pc="268436346" symbol="onEnterSleep"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="22" lineNum="6" pc="268437239" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="22" lineNum="7" pc="268437243" symbol="initialize"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="23" lineNum="11" pc="268437262" symbol="onStart"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="24" lineNum="15" pc="268437267" symbol="onStop"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="25" lineNum="19" pc="268437272" symbol="getInitialView"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="25" lineNum="20" pc="268437276" symbol="getInitialView"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="26" lineNum="24" pc="268437314" symbol="onSettingsChanged"/>
+        <entry filename="/Users/lcda/eclipse-workspace/Marathon/source/MarathonApp.mc" id="26" lineNum="25" pc="268437318" symbol="onSettingsChanged"/>
+        <entry filename="Rez" id="30" lineNum="11" pc="268437335" symbol="initialize"/>
+        <entry filename="Rez" id="30" lineNum="12" pc="268437339" symbol="initialize"/>
+        <entry filename="Rez" id="31" lineNum="15" pc="268437364" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="16" pc="268437368" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="17" pc="268437404" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="18" pc="268437436" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="20" pc="268437472" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="21" pc="268437508" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="23" pc="268437535" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="24" pc="268437571" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="26" pc="268437598" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="27" pc="268437634" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="29" pc="268437661" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="30" pc="268437697" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="32" pc="268437724" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="33" pc="268437760" symbol="draw"/>
+        <entry filename="Rez" id="35" lineNum="50" pc="268437793" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="52" pc="268437805" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="53" pc="268437829" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="54" pc="268437992" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="55" pc="268438152" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="56" pc="268438305" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="57" pc="268438465" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="58" pc="268438625" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="59" pc="268438778" symbol="WatchFace"/>
+        <entry filename="Rez" id="35" lineNum="61" pc="268438938" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="10" object="true" symbol="MarathonApp"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="16" symbol="ColorBlue"/>
+        <entry id="32" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;retrieveHeartrateText&gt;"/>
+        <entry id="31" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setHeartrateDisplay&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="23" symbol="ColorWhite"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="22" symbol="ColorBlack"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="17" symbol="ColorRed"/>
+        <entry id="28" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setStepCountDisplay&gt;"/>
+        <entry field="true" id="18" symbol="ForegroundColorTitle"/>
+        <entry field="true" id="8389714" symbol="INVALID_HR_SAMPLE"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="24" symbol="AppName"/>
+        <entry id="27" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setBatteryDisplay&gt;"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="25" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setClockDisplay&gt;"/>
+        <entry field="true" id="14" object="true" symbol="backdrop"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="26" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="9" object="true" symbol="MarathonView"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="20" symbol="ColorDarkGray"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="15" symbol="ColorLightGray"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="19" symbol="BackgroundColorTitle"/>
+        <entry id="30" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setNotificationCountDisplay&gt;"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="29" method="true" symbol="&lt;globals/MarathonView/&lt;&gt;setStepGoalDisplay&gt;"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="21" symbol="MilitaryFormatTitle"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
+        <entry endPc="268435679" name="dc" stackId="1" startPc="268435637"/>
+        <entry endPc="268436335" name="view" stackId="6" startPc="268435688"/>
+        <entry endPc="268436335" name="hours" stackId="4" startPc="268435688"/>
+        <entry endPc="268436335" name="timeString" stackId="5" startPc="268435688"/>
+        <entry endPc="268436335" name="clockTime" stackId="3" startPc="268435688"/>
+        <entry endPc="268436335" name="timeFormat" stackId="2" startPc="268435688"/>
+        <entry endPc="268436336" name="dc" stackId="1" startPc="268435684"/>
+        <entry endPc="268436484" name="view" stackId="3" startPc="268436355"/>
+        <entry endPc="268436484" name="timeString" stackId="2" startPc="268436355"/>
+        <entry endPc="268436484" name="clockTime" stackId="1" startPc="268436355"/>
+        <entry endPc="268436655" name="date" stackId="2" startPc="268436489"/>
+        <entry endPc="268436655" name="now" stackId="1" startPc="268436489"/>
+        <entry endPc="268436655" name="dateDisplay" stackId="4" startPc="268436489"/>
+        <entry endPc="268436655" name="dateString" stackId="3" startPc="268436489"/>
+        <entry endPc="268436741" name="battery" stackId="1" startPc="268436660"/>
+        <entry endPc="268436741" name="batteryDisplay" stackId="2" startPc="268436660"/>
+        <entry endPc="268436816" name="stepCountDisplay" stackId="2" startPc="268436746"/>
+        <entry endPc="268436816" name="stepCount" stackId="1" startPc="268436746"/>
+        <entry endPc="268436948" name="stepGoalPercent" stackId="1" startPc="268436821"/>
+        <entry endPc="268436948" name="stepGoalDisplay" stackId="2" startPc="268436821"/>
+        <entry endPc="268437060" name="notificationAmount" stackId="1" startPc="268436953"/>
+        <entry endPc="268437060" name="notificationCountDisplay" stackId="3" startPc="268436953"/>
+        <entry endPc="268437060" name="formattedNotificationAmount" stackId="2" startPc="268436953"/>
+        <entry endPc="268437148" name="heartRate" stackId="1" startPc="268437065"/>
+        <entry endPc="268437148" name="heartrateDisplay" stackId="2" startPc="268437065"/>
+        <entry endPc="268437238" name="heartrateIterator" stackId="1" startPc="268437153"/>
+        <entry endPc="268437238" name="currentHeartrate" stackId="2" startPc="268437153"/>
+        <entry endPc="268437267" name="state" stackId="1" startPc="268437262"/>
+        <entry endPc="268437272" name="state" stackId="1" startPc="268437267"/>
+        <entry endPc="268437793" name="dc" stackId="1" startPc="268437364"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_DateDisplay" stackId="8" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_HeartrateDisplay" stackId="5" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_BatteryDisplay" stackId="4" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_NotificationCount" stackId="9" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_StepCountDisplay" stackId="6" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_custom_drawable_16641257544373658581" stackId="2" startPc="268437805"/>
+        <entry endPc="268439025" name="rez_cmp_local_text_StepGoalDisplay" stackId="7" startPc="268437805"/>
+        <entry endPc="268439026" name="dc" stackId="1" startPc="268437793"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="213" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="292" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="339" parentId="Drawables" symbolId="backdrop" type="class"/>
+        <dataEntry offset="394" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="425" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="456" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="495" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="526" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="637" parentId="globals" symbolId="MarathonView" type="class"/>
+        <dataEntry offset="804" parentId="globals" symbolId="MarathonApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="MarathonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MarathonView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setClockDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setDateDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setBatteryDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setStepCountDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setStepGoalDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setNotificationCountDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;setHeartrateDisplay&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MarathonView/&lt;&gt;retrieveHeartrateText&gt;" parent="MarathonView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MarathonApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="MarathonApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="MarathonApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="MarathonApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="MarathonApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="backdrop">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="backdrop">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

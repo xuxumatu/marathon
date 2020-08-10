@@ -1,0 +1,7 @@
+<drawable-list id="backdrop" background="Graphics.COLOR_TRANSPARENT">
+	<shape type="circle" x="center" y="center" radius="45" color="Graphics.COLOR_DK_RED" />
+    <shape type="circle" x="center" y="66" radius="35" color="Graphics.COLOR_BLACK" />
+    <shape type="circle" x="center" y="66" radius="28" color="Graphics.COLOR_DK_RED" />
+	<shape type="circle" x="center" y="66" radius="28" color="Graphics.COLOR_DK_RED" />
+	<shape type="rectangle" x="98" y="100" width="10" height="20" color="Graphics.COLOR_BLACK" />
+</drawable-list>
